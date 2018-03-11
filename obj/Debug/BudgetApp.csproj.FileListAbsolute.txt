@@ -1,0 +1,9 @@
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\bin\BudgetApp.dll.config
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\bin\BudgetApp.dll
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\bin\BudgetApp.pdb
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\obj\Debug\BudgetApp.csprojResolveAssemblyReference.cache
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\obj\Debug\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\obj\Debug\BudgetApp.dll
+C:\Users\Istehsan\source\repos\BudgetApp\BudgetApp\obj\Debug\BudgetApp.pdb
