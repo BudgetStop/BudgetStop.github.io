@@ -33,8 +33,8 @@ body {
 
 .top {
     height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../Image/back.png');
-    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../Image/budget.jpg');
+    background-size: 100%;
     background-position: center;
     position: relative;
 }
@@ -177,19 +177,19 @@ body {
 
 /***** LISTS *****/
 .container {
-    width: 1000px;
+    width: 950px;
     margin: 60px auto;
 }
 
 .income {
     float: left;
-    width: 475px;
+    width: 450px;
     margin-right: 50px;
 }
 
 .expenses {
     float: left;
-    width: 475px;
+    width: 450px;
 }
 
 h2 {
