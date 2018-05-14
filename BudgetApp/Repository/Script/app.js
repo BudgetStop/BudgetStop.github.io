@@ -342,6 +342,7 @@ var globalController = (function (budgetctrl, uictrl) {
 
     return {
         Init: function () {
+            console.log('Init');
             startEvent();
             uictrl.updateTotalBudget({
                 TotalBudget: 0,
