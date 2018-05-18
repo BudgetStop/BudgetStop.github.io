@@ -33,8 +33,8 @@ body {
 
 .top {
     height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../Image/budget.jpg');
-    background-size: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../Image/budget.png');
+
     background-position: center;
     position: relative;
 }
